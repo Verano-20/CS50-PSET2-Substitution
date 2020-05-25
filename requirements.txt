@@ -1,0 +1,4 @@
+cs50.h
+stdio.h
+string.h
+ctype.h
